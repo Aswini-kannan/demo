@@ -1,0 +1,2 @@
+we can create a repository , firstly we have to navigate project fkolder and enter the command git init to intialize git repository 
+for your project folder on local system.

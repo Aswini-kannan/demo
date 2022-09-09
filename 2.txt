@@ -1,0 +1,2 @@
+Once the directory has been intialized check wheater the files aretracked by git or not.by the command git status
+hence files is not tracked git then stage files usig command git add or if we want stage all the files of Your project then the command git add .
