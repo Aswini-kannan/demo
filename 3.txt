@@ -1,0 +1,2 @@
+Git clone paste Url of Repository
+these commands create folder with the name of repository name and download ll contents of repository inside the folder 
