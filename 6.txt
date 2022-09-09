@@ -1,0 +1,2 @@
+Git pull is worked only inside the initiallized git repository
+These command is used in when your are already working in cloned repository
